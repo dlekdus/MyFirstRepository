@@ -6,6 +6,6 @@
   <img width="" height="" src="./PNg/제목 없음.png"></img>
 
 ## 3주차 
-  <img width="" height="" src="./PNg/1.png"></img>
-  <img width="" height="" src="./PNg/2.png"></img>
-  <img width="" height="" src="./PNg/3.png"></img>
+  <img width="" height="" src="./PNg/화면.png"></img>
+  <img width="" height="" src="./PNg/전화.png"></img>
+  <img width="" height="" src="./PNg/네이버.png"></img>
